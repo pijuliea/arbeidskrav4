@@ -1,0 +1,17 @@
+---
+title: "Assignment 4: Study designs"
+author: "Pia"
+format: html
+editor: visual
+biblatexoptions: style = apa
+---
+
+## Introduction
+
+## Method
+
+## Result
+
+## Discussion
+
+## References
